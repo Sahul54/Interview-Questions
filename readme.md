@@ -2,7 +2,7 @@
 
 # Q1. What is Programming Language?
 
-# Ans: A programming language is a set of instructions and rules used to create software, applications, or websites. It allows programmers to write code that computers can understand and execute to perform various tasks. Programming languages come in different types, each with its own syntax and capabilities, and they are used to develop a wide range of software and systems. Examples of programming languages include Python, Java, C++, JavaScript, and many others.
+ Ans: A programming language is a set of instructions and rules used to create software, applications, or websites. It allows programmers to write code that computers can understand and execute to perform various tasks. Programming languages come in different types, each with its own syntax and capabilities, and they are used to develop a wide range of software and systems. Examples of programming languages include Python, Java, C++, JavaScript, and many others.
 
 # Q2. What is Funcational Programming?
 
